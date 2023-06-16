@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently working on developing a web application that renders movie frames.
+I'm currently learning HTML
 
 <!--
 **sujan624/sujan624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
